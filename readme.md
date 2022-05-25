@@ -48,7 +48,7 @@ of the database, make sure all data is clean.
 We make sure "Installs" & "Price" are identified as float. If we apply numerical 
 operations we need to make sure they are the right type. 
 
-[Figure 1](/pictures/figure1.png)
+[Figure 1](https://github.com/FedeReyes2/GooglePlayAnalysis/tree/main/pictures/Figure1.png)
 
 ## Section 4: Exploring App Categories
 
